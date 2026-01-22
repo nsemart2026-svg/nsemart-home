@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Dressen",
+  title: "NS eMart",
   description: "Vendor management website",
 };
 
